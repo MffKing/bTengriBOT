@@ -36,7 +36,9 @@ var eeCmdsNames = [
   "OSEFStaline",
   "DBRemix",
   "TLMSE",
-  "MBLC"
+  "MBLC",
+  "CODÉAVECLECUL",
+  "CodeQCLip"
 ];
 
 var eeCmdsDescription = [
@@ -69,7 +71,9 @@ var eeCmdsDescription = [
   "SI T'ES COCO CLAPPE DANS TES MAINS !!",
   "De Bruyne Remix",
   "Sofiane: Tout Le Monde S'Enfout",
-  "M'en bats les couilles"
+  "M'en bats les couilles",
+  "Je code avec le cul",
+  "Je CODE avec le Q - Clip"
 ];
 
 var eeCmdsLinks = [
@@ -102,7 +106,9 @@ var eeCmdsLinks = [
   "https://www.youtube.com/watch?v=MNhYFcIgSHA",
   "https://www.youtube.com/watch?v=Tkjk3ULDjQs",
   "https://www.youtube.com/watch?v=qwp89PtaUBA",
-  "https://www.youtube.com/watch?v=huqkv18PXsg"
+  "https://www.youtube.com/watch?v=huqkv18PXsg",
+  "https://youtu.be/aeePeVUW6-k",
+  "https://www.youtube.com/watch?v=MYZ67-Sh7kM"
 ];
 
 var prefixe = "$";
